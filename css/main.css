@@ -1079,7 +1079,7 @@ iframe {
 }
 .form__input, .form__textarea {
   padding: 10px 15px;
-  width: 100%;
+  width: 200px;
   border: 1px solid #2B4083;
   border-radius: 10px;
 }
